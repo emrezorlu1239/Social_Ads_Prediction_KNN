@@ -34,4 +34,4 @@ Not Purchased       0.96      0.94      0.95        68
 Emre Zorlu
 
 Kaggle: emrezorlu1239
-GitHub: emrezorlu1239
+GitHub: emrezorlu1239 
